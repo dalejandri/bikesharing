@@ -50,3 +50,7 @@ Using Tableau, create visualizations that show:
 ### Trips by Gender (Weekday per Hour) Viz
 
 ![](Resources/8.PNG)
+
+### Trips by Gender by Weekday Viz
+
+![](Resources/9.PNG)
