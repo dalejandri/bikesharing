@@ -75,8 +75,12 @@ Using table public we have created the report visualization to support our findi
 
 - Two more visualizations are needed to determine the correct distribution to start the bike trips and to define collection points for ending trips to provide better and more efficiet logistics.
 
+### Top Starting Locations
+
 ![](Resources/11.PNG)
 
+### Find Top Ending Locations
 
+![](Resources/12.PNG)
 
 
