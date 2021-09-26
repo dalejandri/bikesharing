@@ -37,12 +37,16 @@ Using Tableau, create visualizations that show:
 
 ### Checkout Times by All Users:
 
-![](Resources/5.PNG)
+![](Resources/8.PNG)
 
 ### Checkout Times by Gender:
 
 ![](Resources/6.PNG)
 
-Create the Trips by Weekday for Each Hour Viz
+### Trips by Weekday for Each Hour Viz
+
+![](Resources/7.PNG)
+
+### Trips by Gender (Weekday per Hour) Viz
 
 ![](Resources/7.PNG)
