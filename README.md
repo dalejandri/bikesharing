@@ -54,3 +54,29 @@ Using Tableau, create visualizations that show:
 ### Trips by Gender by Weekday Viz
 
 ![](Resources/9.PNG)
+
+
+## Deliverable 3: Create a Story and Report for the Final Presentation
+
+Using table public we have created the report visualization to support our findings. This report can be found at:
+
+[link to dashboard](https://public.tableau.com/views/NYCCitibike-Ride/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+- It was identified that there were 2,344,224 bike trips that were recorded during the month of August. 
+
+- Out of those trips, 81% percent belongs to existing service subcribers wereas are the remaining 20 percent are casual users, defining a strong bussines base of regular customers.
+
+- Peak times for initiating trips start ~ 4:00 PM to 7:00 PM. This is the time windows were most bikes are requiered.
+
+- Maintenance hours are best carried around 2:00 AM to 4:00 AM were bike usage numbers are the lowest.
+
+![](Resources/10.PNG)
+
+- Two more visualizations are needed to determine the correct distribution to start the bike trips and to define collection points for ending trips to provide better and more efficiet logistics.
+
+![](Resources/11.PNG)
+
+
+
+
